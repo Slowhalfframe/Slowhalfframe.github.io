@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>ZhangHaoran</title>
+  <icon>http://www.manbanzhen.top/icon.png</icon>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://www.manbanzhen.top/"/>
+  <updated>2020-05-08T08:38:23.000Z</updated>
+  <id>http://www.manbanzhen.top/</id>
+  
+  <author>
+    <name>ZhangHaoran</name>
+    <email>manbanzhen@qq.com</email>
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>初始nuxt.js</title>
+    <link href="http://www.manbanzhen.top/2020/05/08/%E5%88%9D%E5%A7%8Bnuxt-js/"/>
+    <id>http://www.manbanzhen.top/2020/05/08/%E5%88%9D%E5%A7%8Bnuxt-js/</id>
+    <published>2020-05-08T08:32:48.000Z</published>
+    <updated>2020-05-08T08:38:23.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;众所周知，如今前端SPA模式开发有三大框架三足鼎立：Angular、React、Vue；这三个框架非常优秀、并且生态各方面都比较好，而我独宠Vue。&lt;br&gt;其中原生Vue渲染模式是CSR，这种渲染模式不利于搜索引擎的搜录；而我司项目比较依赖搜索引擎的流量、加上后端初转前端的我只会Vue,搜索了大量资料、最终觉得Nuxt.js比较适合我这种新手。其已为开发者提供了许多配置，开箱即用，不费吹灰之力达到SSR效果。&lt;/p&gt;
+&lt;h4 id=&quot;什么是CSR和SSR呢？&quot;&gt;&lt;a href=&quot;#什么是CSR和SSR呢？&quot; class=&quot;headerlink&quot; title=&quot;什么是CSR和SSR呢？&quot;&gt;&lt;/a&gt;什么是CSR和SSR呢？&lt;/h4&gt;
+    
+    </summary>
+    
+    
+      <category term="javascript" scheme="http://www.manbanzhen.top/categories/javascript/"/>
+    
+    
+      <category term="vue.js" scheme="http://www.manbanzhen.top/tags/vue-js/"/>
+    
+      <category term="nuxt.js" scheme="http://www.manbanzhen.top/tags/nuxt-js/"/>
+    
+      <category term="ssr" scheme="http://www.manbanzhen.top/tags/ssr/"/>
+    
+  </entry>
+  
+</feed>
